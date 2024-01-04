@@ -10,7 +10,7 @@ const Home = () => {
 
         <p className='fs-5'>I had (and still have) a fascination with how organisations work and numbers and decided to pursue a BA in Business Studies with a focus in Accounting.  After completing my BA, I pursued a Post Graduate Certificate in Education and taught for over 5 years.  My curiosity and thirst for learning has lead me to coding where I took a course with IT Careers Switch where I have enjoy the problem solving and creativity involved in coding. The ability to break things down; explain seemingly complex concepts simply (even to myself);  constantly learn new ideas; are all skills I gained in my teaching career.  These skill have served me well in my coding journey am I am looking forward to using them in my future career.</p>
 
-        <p className='fs-5'>Download full CV<a className='ps-2' href="Elizabeth Kruger CV.pdf" download><Download size='25'/></a></p>
+        <p className='fs-5'>Download full CV<a className='ps-2' href="Elizabeth Kruger CV.docx" download><Download size='25'/></a></p>
     </div>
     )
 }
