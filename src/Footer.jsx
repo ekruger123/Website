@@ -6,7 +6,7 @@ const Footer = () => {
 
     return (
     <footer>
-        <div class="container text-center p-3">
+        <div className="container text-center p-3">
         <a href="https://github.com/ekruger123" target="blank" className="p-2"><Github size='25'/></a>
         <a href="https://www.linkedin.com/in/elizabeth-kruger/" target="blank" className="p-2"><Linkedin size='25'/></a>
     
